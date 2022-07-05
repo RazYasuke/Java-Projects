@@ -1,0 +1,1 @@
+#include<iostream>using namespace std; void what(int *x){	 *x = 46; }void main(){	int * ptr = new int;	*ptr = 23;	what(ptr);cout<<*ptr<<endl; }

@@ -9,6 +9,6 @@ Instructions:
 
    -Download this Repo.
 
-   -Run [GameFrame.java](https://github.com/RazYasuke/Java-Projects/blob/main/Space%20Invaders%20Game/src/GameFrame.java) to Play
+   -Run [GameFrame.java](https://github.com/RazYasuke/Java-Projects/blob/main/Space%20Invaders%20Game/src/GameFrame.java) to play.
 
    -Please play the game until it restarts.

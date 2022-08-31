@@ -4,4 +4,6 @@ Gianni Lake
 
 ![Plot Image](https://github.com/RazYasuke/Java-Projects/blob/main/Space%20Invaders%20Game/images/Gameplay.png)
 
-Please play game until it restarts.}
+Run [GameFrame.java](https://github.com/RazYasuke/Java-Projects/blob/main/Space%20Invaders%20Game/src/GameFrame.java) to Play
+
+Please play the game until it restarts.
